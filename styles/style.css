@@ -185,6 +185,8 @@ section {
 .get-touch h1{
     font-size: 90px;
     width: 500px;
+    display: flex;
+    align-items: center;
 }
 .info{
     width: 490px;
